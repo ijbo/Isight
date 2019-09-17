@@ -3,6 +3,8 @@ is a Dash component wrapping the react-pivottable library, created by Nicholas a
 
 This is a Dashboard to upload a csv and start visualizing the data.
 
+![](V0.1/Dashboard_v0.1.gif)
+
 
 
 
