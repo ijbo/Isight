@@ -5,7 +5,7 @@ This is a Dashboard to upload a csv and start visualizing the data.
 
 Dashboard Demo : 
 
-![](V0.1/Dashboard_v0.1.gif)
+![](v0.1/Dashboard.gif)
 
 
 
