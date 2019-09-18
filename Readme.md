@@ -9,7 +9,7 @@ This is a Dashboard to upload a csv and start visualizing the data.
 
 
 
-## code for the video to gif covertor :
+## code for the video to gif convertor :
 
 from moviepy.editor import *
 
